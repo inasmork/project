@@ -9,3 +9,4 @@ This is awesome project.
 =======
 ## Conflict
 >>>>>>> conflict
+https://github.com/inasmork/project/blob/966a061164ca6b6ecfb8cef75f4aeabf515d71a3/docs/architecture.md
